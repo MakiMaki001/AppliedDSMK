@@ -4,6 +4,8 @@ Projects by Marko Konte
 
 Project 1: Exploratory Data Analysis
 
-Project 2: Shiny Data App: 
+Project 2: Shiny Data App
 
-Project 3: 
+Project 3: Model evaluation and selection for predictive analytics on image data.
+
+Project 4: Recommender system
